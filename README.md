@@ -4,4 +4,5 @@ The repository is under construction, and will be made available with the manusc
 
 **OPEN Stereo: An Open-Source System for Performing Stereology Using Existing Hardware**
 
-([link_to_youtube_video](https://www.youtube.com/watch?v=Y0rsWYBhk-Y)https://www.youtube.com/watch?v=Y0rsWYBhk-Y)
+[![Video Thumbnail](link_to_thumbnail_image)](https://www.youtube.com/watch?v=Y0rsWYBhk-Y)
+
