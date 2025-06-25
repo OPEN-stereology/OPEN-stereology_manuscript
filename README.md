@@ -6,4 +6,10 @@ The repository is under construction, and will be made available with the manusc
 
 User's guide and the system overview is outlined in the following instructional video:
 
-[![Video Thumbnail](https://github.com/OPEN-stereology/OPEN-stereology_manuscript/blob/main/open-stereo.PNG)](https://www.youtube.com/watch?v=Y0rsWYBhk-Y)
+
+[![Video Thumbnail](https://github.com/OPEN-stereology/OPEN-stereology_manuscript/blob/main/open-stereo.PNG)(https://youtu.be/MiMwLjrcVZg)]
+
+
+https://youtu.be/MiMwLjrcVZg?list=PLYekxRnXol_rTfciUQ6VMen61FR17a0-N
+
+(https://www.youtube.com/watch?v=Y0rsWYBhk-Y)
