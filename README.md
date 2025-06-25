@@ -12,7 +12,7 @@ The repository supports the manuscript:
 
 Watch this introductory video for a guided walkthrough of the system setup and core functionality:
 
-[![OPEN Stereo Overview](https://raw.githubusercontent.com/OPEN-stereology/OPEN-stereology_manuscript/main/open-stereo.PNG)](https://youtu.be/MiMwLjrcVZg)
+[![OPEN Stereo Overview](https://raw.githubusercontent.com/OPEN-stereology/OPEN-stereology_manuscript/main/open-stereo.png)](https://youtu.be/MiMwLjrcVZg)
 
 ---
 
