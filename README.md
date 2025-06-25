@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/a81bc9e0-9df9-4d1e-8a01-d5765f3eaa43)# OPEN-stereology_manuscript
-
-This is the repository for the **OPEN Stereo** software, an open-source stereology platform built using off-the-shelf microscopy components.
+# This is the repository for the **OPEN Stereo** software, an open-source stereology platform built using off-the-shelf microscopy components.
 
 The repository supports the manuscript:
 
