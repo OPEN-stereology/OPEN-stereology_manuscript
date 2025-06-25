@@ -1,4 +1,4 @@
-# OPEN-stereology_manuscript
+![image](https://github.com/user-attachments/assets/a81bc9e0-9df9-4d1e-8a01-d5765f3eaa43)# OPEN-stereology_manuscript
 
 This is the repository for the **OPEN Stereo** software, an open-source stereology platform built using off-the-shelf microscopy components.
 
@@ -35,12 +35,11 @@ This series of videos walks you through the full setup process:
 
 ## 🚧 Repository Status
 
-This repository is under active construction. When finalized, it will include:
+This repository includes:
 
-- Software installation instructions  
-- Calibration tools  
-- Sample data  
-- Full analysis workflow
+- Video users's guide for using the tool including:
+   - Two calibration tutorials 
+   - Full analysis workflow
 
 ---
 
