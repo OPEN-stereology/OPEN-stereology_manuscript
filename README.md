@@ -2,7 +2,7 @@
 
 The repository supports the manuscript:
 
-> **OPEN Stereo: An Open-Source System for Performing Stereology Using Existing Hardware**
+**Stereology with Open-Stereo: Low cost accessible and accurage cellular qunatification**
 
 ---
 
