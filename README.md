@@ -1,15 +1,55 @@
 # OPEN-stereology_manuscript
-This is the repository for the OPEN-stereo software for stereology using off the shelf microscopy components.
-The repository is under construction, and will be made available with the manuscript titled:
 
-**OPEN Stereo: An Open-Source System for Performing Stereology Using Existing Hardware**
+This is the repository for the **OPEN Stereo** software, an open-source stereology platform built using off-the-shelf microscopy components.
 
-User's guide and the system overview is outlined in the following instructional video:
+The repository supports the manuscript:
 
+> **OPEN Stereo: An Open-Source System for Performing Stereology Using Existing Hardware**
 
-[![Video Thumbnail](https://github.com/OPEN-stereology/OPEN-stereology_manuscript/blob/main/open-stereo.PNG)(https://youtu.be/MiMwLjrcVZg)]
+---
 
+## 🎬 Getting Started: Instructional Overview
 
-https://youtu.be/MiMwLjrcVZg?list=PLYekxRnXol_rTfciUQ6VMen61FR17a0-N
+Watch this introductory video for a guided walkthrough of the system setup and core functionality:
 
-(https://www.youtube.com/watch?v=Y0rsWYBhk-Y)
+[![OPEN Stereo Overview](https://raw.githubusercontent.com/OPEN-stereology/OPEN-stereology_manuscript/main/open-stereo.PNG)](https://youtu.be/MiMwLjrcVZg)
+
+---
+
+## 📺 Step-by-Step Video Guide
+
+This series of videos walks you through the full setup process:
+
+1. **[Calibrate x/y motors to the camera](https://youtu.be/MiMwLjrcVZg)**  
+   Aligns stage motors with the camera field of view.
+
+2. **[Calibrate objectives](https://youtu.be/YOUR_VIDEO_ID_2)**  
+   Guides you through setting up magnification scaling and objective metadata.
+
+3. **[OPEN Stereo GUI walkthrough](https://youtu.be/YOUR_VIDEO_ID_3)**  
+   Demonstrates the main interface and how to begin capturing and navigating samples.
+
+> 📂 View the full playlist here: [Guide to OPEN Stereo](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+
+---
+
+## 🚧 Repository Status
+
+This repository is under active construction. When finalized, it will include:
+
+- Software installation instructions  
+- Calibration tools  
+- Sample data  
+- Full analysis workflow
+
+---
+
+## 🧠 Citation Info
+
+Citation details will be available upon publication of the manuscript.
+
+---
+
+## 📬 Contact
+
+Please open an Issue or reach out via the contact details in the manuscript if you have questions or would like to contribute.
