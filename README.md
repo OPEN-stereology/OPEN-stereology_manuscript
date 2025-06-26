@@ -55,6 +55,18 @@ Citation details will be available upon publication of the manuscript.
 
 ---
 
+## 🛡️ License
+
+This software is released under the [Polyform Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/), which permits use, modification, and distribution for **non-commercial purposes only**.
+
+Commercial use is prohibited without explicit permission.
+
+Documentation and tutorials are available under a [Creative Commons Attribution-NonCommercial 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+---
 ## 📬 Contact
+
+
+
 
 Please open an Issue or reach out via the contact details in the manuscript if you have questions or would like to contribute.
