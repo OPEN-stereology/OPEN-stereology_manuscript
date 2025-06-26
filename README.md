@@ -41,6 +41,14 @@ This repository includes:
 
 ---
 
+## ❓ FAQ & Troubleshooting
+
+Looking for help with setup, camera behavior, or stage connectivity?
+
+👉 See the [OPEN Stereo Setup FAQ](FAQ.md) for common troubleshooting tips and configuration guidance.
+
+---
+
 ## 🧠 Citation Info
 
 Citation details will be available upon publication of the manuscript.
