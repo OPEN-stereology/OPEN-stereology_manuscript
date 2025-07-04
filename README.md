@@ -18,16 +18,16 @@ Watch this introductory video for a guided walkthrough of the system setup and c
 
 This series of videos walks you through the full setup process:
 
-1. **[Calibrate x/y motors to the camera](https://youtu.be/MiMwLjrcVZg)**  
+1. **[Calibrate x/y motors to the camera](https://youtu.be/Im1J6ncMR54)**  
    Aligns stage motors with the camera field of view.
 
-2. **[Calibrate objectives](https://youtu.be/YOUR_VIDEO_ID_2)**  
+2. **[Calibrate objectives](https://youtu.be/inL9R_Aruuc)**  
    Guides you through setting up magnification scaling and objective metadata.
 
-3. **[OPEN Stereo GUI walkthrough](https://youtu.be/YOUR_VIDEO_ID_3)**  
+3. **[OPEN Stereo GUI walkthrough](https://youtu.be/MiMwLjrcVZg)**  
    Demonstrates the main interface and how to begin capturing and navigating samples.
 
-> 📂 View the full playlist here: [Guide to OPEN Stereo](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+> 📂 View the full playlist here: [Guide to OPEN Stereo](https://www.youtube.com/playlist?list=PLYekxRnXol_rTfciUQ6VMen61FR17a0-N)
 
 ---
 
