@@ -2,7 +2,7 @@
 
 The repository supports the manuscript:
 
-**Stereology with Open-Stereo: Low cost accessible and accurage cellular qunatification**
+**Stereology with Open-Stereo: Low cost accessible and accurate cellular quantification**
 
 ---
 
