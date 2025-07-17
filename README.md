@@ -1,8 +1,18 @@
+# NOTICE: Code Under Review
+
+This repository contains software that is currently **under peer review for formal publication**.
+
+It is shared **temporarily and publicly** to support the scientific review process.
+
+**Please do not reuse, fork, or redistribute this code** until a formal publication and license is finalized. Authorship and scientific claims are protected under academic and copyright standards.
+
+
 # This is the repository for the **OPEN Stereo** software, an open-source stereology platform built using off-the-shelf microscopy components.
 
 The repository supports the manuscript:
 
 **Stereology with Open-Stereo: Low cost accessible and accurate cellular quantification**
+
 
 ---
 
