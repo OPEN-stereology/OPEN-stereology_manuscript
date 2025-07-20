@@ -1,6 +1,6 @@
 ## NOTICE: Code Under Review
 
-This code is currently under peer review for formal publication.  
+This code is currently part of a paper under peer review for formal publication.  
 It is provided to reviewers solely for evaluation and transparency during the review process  
 
 **Please do not reuse, fork, or redistribute this code** until a formal publication and license have been finalized.
