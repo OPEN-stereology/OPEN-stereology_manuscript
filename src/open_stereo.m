@@ -5,7 +5,7 @@
 
 % Part of OPEN-Stereology Core Function suite – Reviewer Copy ONLY
 %
-% Copyright (c) 2024, OPEN-Stereology
+% Copyright (c) 2021-2025, OPEN-Stereology
 % Licensed under the PolyForm Noncommercial License 1.0.0
 % https://polyformproject.org/licenses/noncommercial/1.0.0
 %
