@@ -1,6 +1,7 @@
-% OPEN-Stereology Core Function – Reviewer Copy
+
+% Part of OPEN-Stereology Core Function suite – Reviewer Copy ONLY
 %
-% Copyright (c) 2024, OPEN-Stereology
+% Copyright (c) 2021-2025, OPEN-Stereology
 % Licensed under the PolyForm Noncommercial License 1.0.0
 % https://polyformproject.org/licenses/noncommercial/1.0.0
 %
@@ -40,7 +41,8 @@
 % Users intending to adapt this software for their own stereology setup
 % must review and modify all system-dependent variables, driver commands,
 % and calibration constants accordingly. Proper adaptation will require
-% access to and careful review of the manuscript associated with this software.
+% access to and careful review of the manuscript associated with this
+% software.
 
 function open_stereo_core(hObject, eventdata, handles)
     % Main stereology analysis function for microscopy data
