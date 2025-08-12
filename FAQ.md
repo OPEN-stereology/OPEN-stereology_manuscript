@@ -39,7 +39,7 @@ Turn on all hardware in the following order:
 ---
 
 ### 4. How do I configure the YawCam software?
-
+- Download YawCam version 0.5.0 from https://www.yawcam.com/dist/
 - Confirm YawCam version: `0.5.0` (2016-01-31 build).
 - In YawCam:
   - Enable **HTTP** under the “Settings” menu.
