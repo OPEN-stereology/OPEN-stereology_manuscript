@@ -69,5 +69,9 @@ Documentation and tutorials are available under a [Creative Commons Attribution-
 
 ---
 ## 📬 Contact
+<picture>
+  <img src="https://github.com/OPEN-stereology/OPEN-stereology_manuscript/blob/main/src/bugreports.png?raw=true" alt="Bug Reports" width="300">
+</picture>
+ 
 
-For issues/bug reports: openstereology@gmail.com
+ 
