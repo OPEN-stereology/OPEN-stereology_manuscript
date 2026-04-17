@@ -32,6 +32,24 @@
 % and calibration constants accordingly. Proper adaptation will require
 % access to and careful review of the manuscript associated with this
 % software.
+%
+%
+% DEVELOPMENT AND DISTRIBUTION NOTES:
+%
+% (1) Active Development: This toolbox is undergoing rapid modernization.
+%     The present version reflects a functional research implementation.
+%     System-specific parameters, hardware dependencies, and interface
+%     conventions are being revised to improve portability and accessibility
+%     for a general audience. A more broadly deployable release is in
+%     preparation.
+%
+% (2) Embedded File Paths (.fig binary): The binary file open_stereo.fig
+%     contains MATLAB GUIDE metadata fields (FileName, lastSavedFile,
+%     lastFilename) that record the local file path at the time of the last
+%     save. These fields are inert at runtime and do not contain personal
+%     identifiers, but they are recoverable from the .fig binary. To reset
+%     them, re-save the .fig from MATLAB in a directory with a neutral path.
+
 
 function varargout = open_stereo(varargin)
 % open_stereo MATLAB code for open_stereo.fig
