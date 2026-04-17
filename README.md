@@ -1,12 +1,12 @@
 
 # This is the repository for the **OPEN Stereo** software, an open-source stereology platform built using off-the-shelf microscopy components.
 ---
-## NOTICE: Code Under Review
-
-This code is currently part of a paper under peer review for formal publication.  
-It is provided to reviewers solely for evaluation and transparency during the review process  
-
-**Please do not reuse, fork, or redistribute this code** until a formal publication and license have been finalized.
+Active Development: This toolbox is undergoing rapid modernization.
+%     The present version reflects a functional research implementation.
+%     System-specific parameters, hardware dependencies, and interface
+%     conventions are being revised to improve portability and accessibility
+%     for a general audience. A more broadly deployable release is in
+%     preparation.
 
 ---
 
@@ -55,7 +55,7 @@ Looking for help with setup, camera behavior, or stage connectivity?
 
 ## 🧠 Citation Info
 
-Citation details will be available upon publication of the manuscript.
+Overk, C., Mobley, W.C. Stereology with OPEN-Stereo: low-cost, accessible, and accurate cellular quantification. Sci Rep 16, 3753 (2026). https://doi.org/10.1038/s41598-025-33697-x
 
 ---
 
@@ -70,7 +70,4 @@ Documentation and tutorials are available under a [Creative Commons Attribution-
 ---
 ## 📬 Contact
 
-
-
-
-Please open an Issue or reach out via the contact details in the manuscript if you have questions or would like to contribute.
+For issues/bug reports: openstereology@gmail.com
