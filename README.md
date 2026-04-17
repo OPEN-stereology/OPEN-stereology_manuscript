@@ -10,6 +10,14 @@ Active Development: This toolbox is undergoing rapid modernization.
 
 ---
 
+## 🧠 Citation Info
+
+If you use OPEN-Stereo in your research, please cite the following paper:
+
+Overk, C., Mobley, W.C. Stereology with OPEN-Stereo: low-cost, accessible, and accurate cellular quantification. Sci Rep 16, 3753 (2026). https://doi.org/10.1038/s41598-025-33697-x
+
+---
+
 ## 🎬 Getting Started: Instructional Overview
 
 Watch this introductory video for a guided walkthrough of the system setup and core functionality:
@@ -51,11 +59,6 @@ Looking for help with setup, camera behavior, or stage connectivity?
 
 👉 See the [OPEN Stereo Setup FAQ](FAQ.md) for common troubleshooting tips and configuration guidance.
 
----
-
-## 🧠 Citation Info
-
-Overk, C., Mobley, W.C. Stereology with OPEN-Stereo: low-cost, accessible, and accurate cellular quantification. Sci Rep 16, 3753 (2026). https://doi.org/10.1038/s41598-025-33697-x
 
 ---
 
